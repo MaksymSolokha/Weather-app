@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Weather-app/static/css/main.f596c729.css",
+    "main.js": "/Weather-app/static/js/main.2a8b594a.js",
+    "static/media/mayank-sehgal-xS_Ayok1WWY-unsplash.jpg": "/Weather-app/static/media/mayank-sehgal-xS_Ayok1WWY-unsplash.731a088fd74a3fbe6ddf.jpg",
+    "static/media/sunny.svg": "/Weather-app/static/media/sunny.b1f947db052310b668cc143c3f28db88.svg",
+    "static/media/instagramicon.svg": "/Weather-app/static/media/instagramicon.4a03cd728863f0159e2f0415d117bf14.svg",
+    "index.html": "/Weather-app/index.html",
+    "static/media/Clouds.svg": "/Weather-app/static/media/Clouds.6292195d224a95d8cd48e5ee75591830.svg",
+    "static/media/github.svg": "/Weather-app/static/media/github.572a2b9d064f957d6ab26ec27593d40a.svg",
+    "static/media/search.svg": "/Weather-app/static/media/search.3a16eb9c30be00d2d7783d715efb2a8e.svg",
+    "static/media/linkedinicon.svg": "/Weather-app/static/media/linkedinicon.ab068d1887ac10628a6a73948cb47524.svg",
+    "main.f596c729.css.map": "/Weather-app/static/css/main.f596c729.css.map",
+    "main.2a8b594a.js.map": "/Weather-app/static/js/main.2a8b594a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f596c729.css",
+    "static/js/main.2a8b594a.js"
+  ]
+}
