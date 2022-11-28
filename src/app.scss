@@ -6,12 +6,11 @@
 	padding: 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(./assets/img/mayank-sehgal-xS_Ayok1WWY-unsplash.jpg);
+	background-image: url(./assets/img/mayank-sehgal-xS_Ayok1WWY-unsplash-min.jpg);
 	display: flex;
 	align-items: center;
-	justify-content: center;
 
-	&-block {
+	justify-content: center &-block {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
