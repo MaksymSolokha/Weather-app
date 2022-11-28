@@ -1,0 +1,32 @@
+.social {
+	margin-bottom: 55px;
+	display: flex;
+
+	&__list {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 15px;
+
+		&__item {
+			cursor: pointer;
+
+			a {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 55px;
+				height: 55px;
+				background: rgba(217, 217, 217, 0.1);
+				border: 1.5px solid #ffffff;
+				border-radius: 50%;
+				opacity: 0.6;
+				transition: opacity 0.3s ease-in-out;
+
+				&:hover {
+					opacity: 1;
+				}
+			}
+		}
+	}
+}
