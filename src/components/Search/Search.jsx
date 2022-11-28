@@ -6,7 +6,7 @@ import WeatherCard from '../WeatherCard/WeatherCard';
 import Loading from '../Loading/Loading';
 
 function Search() {
-	const [location, setLocation] = useState('Ґ');
+	const [location, setLocation] = useState('');
 	const [data, setData] = useState({});
 	const [isLoading, setIsloading] = useState(false);
 	const [isError, setIsError] = useState(false);
