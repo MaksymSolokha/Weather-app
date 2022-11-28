@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Weather-app/static/css/main.c4fb6258.css",
+    "main.css": "/Weather-app/static/css/main.69f71846.css",
     "main.js": "/Weather-app/static/js/main.f8f18797.js",
     "static/media/mayank-sehgal-xS_Ayok1WWY-unsplash-min.jpg": "/Weather-app/static/media/mayank-sehgal-xS_Ayok1WWY-unsplash-min.4e738980acefed7ab091.jpg",
     "static/media/sunny.svg": "/Weather-app/static/media/sunny.b1f947db052310b668cc143c3f28db88.svg",
@@ -10,11 +10,11 @@
     "static/media/github.svg": "/Weather-app/static/media/github.572a2b9d064f957d6ab26ec27593d40a.svg",
     "static/media/search.svg": "/Weather-app/static/media/search.3a16eb9c30be00d2d7783d715efb2a8e.svg",
     "static/media/linkedinicon.svg": "/Weather-app/static/media/linkedinicon.ab068d1887ac10628a6a73948cb47524.svg",
-    "main.c4fb6258.css.map": "/Weather-app/static/css/main.c4fb6258.css.map",
+    "main.69f71846.css.map": "/Weather-app/static/css/main.69f71846.css.map",
     "main.f8f18797.js.map": "/Weather-app/static/js/main.f8f18797.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4fb6258.css",
+    "static/css/main.69f71846.css",
     "static/js/main.f8f18797.js"
   ]
 }
