@@ -23,7 +23,7 @@ function Social() {
 			<ul className="social__list">
 				{LINKS.map((link) => (
 					<li key={link.href} className="social__list__item">
-						<a href={link.href}>
+						<a href={link.href} target="_blank" rel="noreferrer">
 							<img src={link.img} alt="" />
 						</a>
 					</li>
